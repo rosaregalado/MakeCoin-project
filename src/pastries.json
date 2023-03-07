@@ -1,0 +1,65 @@
+[
+  {
+    "id": 0,
+    "name": "Macaron",
+    "picture": "images/macaron.jpeg",
+    "description": "A French pastry composed of two shells and a filling in the middle",
+    "origin": "France"
+  },
+  {
+    "id": 1,
+    "name": "Cookie",
+    "picture": "images/cookie.jpeg",
+    "description": "A baked good",
+    "origin": "Persia"
+  },
+  {
+    "id": 2,
+    "name": "Brownie",
+    "picture": "images/brownie.jpeg",
+    "description": "A small, square chocolate cake that is soft in the middle, often with pieces of chocolate or nuts in it.",
+    "origin": "United States"
+  },
+  {
+    "id": 3,
+    "name": "Soft Pretzel",
+    "picture": "images/pretzel.jpeg",
+    "description": "Baked bread that is twisted into the shape of a loose knot",
+    "origin": "Germany, France"
+  },
+  {
+    "id": 4,
+    "name": "Baguette",
+    "picture": "images/baguette.jpeg",
+    "description": "A French bread shaped like a long, thin loaf with a crisp and crunchy crust",
+    "origin": "France"
+  },
+  {
+    "id": 5,
+    "name": "Cake",
+    "picture": "images/cake.jpeg",
+    "description": "A sweet baked food made from a dough or thick batter usually containing flour and sugar and often shortening, eggs, and a raising agent",
+    "origin": "US"
+  },
+  {
+    "id": 6,
+    "name": "Pie",
+    "picture": "images/pie.jpeg",
+    "description": "A dish made by lining a shallow container with pastry and filling the container with a sweet or savoury mixture",
+    "origin": "Ancient Egypt and Greece"
+  },
+  {
+    "id": 7,
+    "name": "Poptart",
+    "picture": "images/poptart.jpeg",
+    "description": "Sweet pastries, made from two rectangular pastry crusts, sandwiched together and filled with a wide assortment of sweet fillings",
+    "origin": "Britain"
+  },
+  {
+    "id": 8,
+    "name": "Cupcake",
+    "picture": "images/cupcake.jpeg",
+    "description": "Batter cakes baked in a cup-shaped foil",
+    "origin": "Hawaii"
+  }
+]
